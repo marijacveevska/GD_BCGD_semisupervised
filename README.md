@@ -8,7 +8,7 @@
 Comparison of Gradient Descent and Block Coordinate Gradient Descent methods through semi supervised learning problem.
 
 ### Task
-- adressing semi-supervised learning problem
+- addressing semi-supervised learning problem
 - implement Standard Gradient Descent 
 - implement Block Coordinate Gradient Descent with Randomized rule
 - implement Block Coordinate Gradient Descent with Gauss Southwell rule
